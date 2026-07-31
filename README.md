@@ -154,8 +154,6 @@ Development of business applications focused on scalability, performance and pro
 
 <div align="center">
 
-<a href="https://github.com/victornobrick"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victornobrick&theme=github_dark" alt="GitHub statistics" /> </a>
-
 <a href="https://github.com/victornobrick"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victornobrick&theme=github_dark" alt="Most used languages" /> </a>
 
 </div>
