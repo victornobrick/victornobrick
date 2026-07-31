@@ -32,52 +32,6 @@ Building scalable enterprise solutions with clean architecture, integrations and
 
 # 👨🏻‍💻 About Me
 
-```csharp
-public class VictorYuri
-{
-    public string Role => "Full Stack Developer";
-
-    public string Company => "Grupo Leonora";
-
-    public string Location => "Palhoça - SC";
-
-    public string[] Languages =>
-    [
-        "C#",
-        "TypeScript",
-        "JavaScript"
-    ];
-
-    public string[] Expertise =>
-    [
-        ".NET",
-        "ASP.NET Core",
-        "React",
-        "React Native",
-        "REST APIs",
-        "Enterprise Integration",
-        "ERP Logix",
-        "VTEX",
-        "Docker",
-        "SQL Server",
-        "Informix"
-    ];
-
-    public string[] Interests =>
-    [
-        "Software Architecture",
-        "Distributed Systems",
-        "Clean Code",
-        "Performance",
-        "Scalable APIs"
-    ];
-}
-```
-
----
-
-# 🚀 What I Do
-
 💼 Full Stack Developer at Grupo Leonora
 
 ⚙️ Development of enterprise applications
