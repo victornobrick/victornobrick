@@ -139,12 +139,9 @@ Development of business applications focused on scalability, performance and pro
 
 ### DevOps & Tools
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=docker,git,github,githubactions,visualstudio,vscode,postman"
-    alt="DevOps and development tools"
-  />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,visualstudio,vscode,rider,postman" alt="DevOps and development tools" /> </p>
+
+<p> <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" /> </p>
 
 ---
 
