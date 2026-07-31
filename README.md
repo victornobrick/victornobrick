@@ -15,34 +15,6 @@ Building scalable enterprise solutions with clean architecture, system integrati
 
 <br>
 
-<p>
-  <a href="https://www.linkedin.com/in/victor-y-28409112a">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;
-  <a href="mailto:victor.yuri.kevyn@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Send%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937"
-      alt="Email"
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com/victornobrick">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20profile-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
-<img
-src="https://komarev.com/ghpvc/?username=victornobrick&label=Profile%20views&color=2F81F7&style=flat-square"
-alt="Profile views"
-/>
-
 </div>
 
 ---
@@ -180,17 +152,13 @@ Development of business applications focused on scalability, performance and pro
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=victornobrick&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400"
-alt="Victor Yuri's GitHub statistics"
-/>
+<div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornobrick&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
-alt="Most used languages"
-/>
+<a href="https://github.com/victornobrick"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victornobrick&theme=github_dark" alt="GitHub statistics" /> </a>
+
+<a href="https://github.com/victornobrick"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victornobrick&theme=github_dark" alt="Most used languages" /> </a>
+
+</div>
 
 <br>
 <br>
