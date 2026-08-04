@@ -4,10 +4,7 @@
 
 ### Desenvolvedor Full Stack focado em .NET, React e Integrações Corporativas
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;C%23+%2B+ASP.NET+Core;React+%2B+React+Native;Integrações+de+Sistemas+Corporativos;ERP+%7C+VTEX+%7C+Docker+%7C+SQL;Desenvolvendo+soluções+corporativas+escaláveis"
-alt="Animação com tecnologias e áreas de atuação"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;C%23+%2B+ASP.NET+Core;React+%2B+React+Native;Enterprise+System+Integrations;ERP+%7C+VTEX+%7C+Docker+%7C+SQL;Building+scalable+business+solutions" alt="Typing animation" />
 
 <br>
 
