@@ -18,7 +18,7 @@ Desenvolvimento de soluções corporativas escaláveis utilizando arquitetura li
 
 ## 👨🏻‍💻 Sobre Mim
 
-* 💼 Desenvolvedor Full Stack no **Grupo Leonora**
+* 💼 Desenvolvedor Full Stack na **NTT Data**
 * 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 * ⚙️ Desenvolvimento de aplicações corporativas
 * 🔗 Integrações entre ERP e sistemas de negócio
